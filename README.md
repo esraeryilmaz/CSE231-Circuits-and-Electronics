@@ -1,2 +1,1 @@
-# CSE231 Circuits and Electronics
- CSE231 Circuits and Electronics Course Homeworks
+# CSE231 Circuits and Electronics Course Homeworks
